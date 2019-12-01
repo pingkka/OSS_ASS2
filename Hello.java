@@ -7,6 +7,10 @@ public class Hello{
         System.out.println("F");
 =======
         System.out.println("B");
+<<<<<<< HEAD
+>>>>>>> develop
+=======
+        System.out.println("E");
 >>>>>>> develop
     }
 }
