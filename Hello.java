@@ -4,6 +4,7 @@ public class Hello{
 <<<<<<< HEAD
         System.out.println("C");
         System.out.println("D");
+        System.out.println("F");
 =======
         System.out.println("B");
 >>>>>>> develop
